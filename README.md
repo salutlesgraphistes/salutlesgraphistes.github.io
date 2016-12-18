@@ -6,7 +6,7 @@ Cette page servira à garder une trace et un historique de ce qui a été fait, 
 
 Ce workshop visait, avec seulement 6 journées d'intervention, à familiariser 12 jeunes graphistes avec le monde des technologies web, dans le but de leur donner les armes nécessaires à la collaboration avec des développeurs dans leur future vie professionnelle.
 
-En si peu de temps, elles auront appris :
+En si peu de temps, elles auront appris :  
 - comment fonctionne le web ?
 - ce qu'est un serveur/nom de domaine/comment on accède à un site ?
 - comment on lie un nom à un serveur, et pourquoi ça marche de cette manière ?
