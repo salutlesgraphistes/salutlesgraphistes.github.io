@@ -1,25 +1,14 @@
-.Component{
-  &--element
-  {
+.Component {
+    &--element {}
 
-  }
-
-  &__modifier
-  {
-
-  }
+    &__modifier {}
 }
 
+.Header {
+    background: rgb(107, 117, 156);
+    color: white;
 
-.Header{
+    &--title {}
 
-  background:rgb(107, 117, 156);
-  color: white;
-  &--title{
-
-  }
-
-  &--description{
-
-  }
+    &--description {}
 }
