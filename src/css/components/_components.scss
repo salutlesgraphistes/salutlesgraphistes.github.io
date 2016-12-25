@@ -5,10 +5,15 @@
 }
 
 .Header {
-    background: rgb(107, 117, 156);
+    background: rgb(163, 59, 0);
     color: white;
 
     &--title {}
 
     &--description {}
+}
+
+.Footer {
+    background: rgb(163, 59, 0);
+    color: white;
 }
