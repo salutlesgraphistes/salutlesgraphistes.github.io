@@ -1,0 +1,50 @@
+@import "util/reset";
+
+html *
+{
+  box-sizing: border-box;
+}
+
+html
+{
+  font-size: 16px;
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+body{
+
+}
+
+h1,h2,h3,p,blockquote,ul{
+  margin-bottom:.75em;
+}
+
+h1
+{
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h2
+{
+  font-size: 1.6em;
+}
+
+h3
+{
+  font-size: 1.25em;
+}
+
+li
+{
+  list-style-type: square;
+}
+
+.container
+{
+  max-width: 80ch;
+  margin: auto;
+  padding:2em 0;
+}
+@import "components/components";
